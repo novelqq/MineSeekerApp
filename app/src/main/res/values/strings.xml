@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mine Seeker</string>
+    <string name="congrats_msg">Congratulations!</string>
+    <string name="splash_info">Welcome to Chaika Finder! Made by Ryan Zacharias</string>
+    <string name="skip_button">Skip</string>
+    <string name="play_button">Play</string>
+    <string name="option_button">Options</string>
+    <string name="help_button">Help</string>
+    <string name="remain">%d of %d mines remaining</string>
+    <string name="scans">%d scans</string>
+    <string name="win">You won!</string>
+    <string name="num_mines"> %1$d mines</string>
+    <string name="num_rows"> %1$d rows</string>
+    <string name="num_cols"> %1$d cols</string>
+    <string name="help_info"> Author : Ryan Zacharias</string>
+    <string name="help_bio"> Find all the Chaika\'s! Press a tile to scan the row and column for Chaika\'s. The goal is to find all the
+        Chaika\'s in the least amount of scans! Author : Ryan Zacharias</string>
+    <string name="menu_title">Main Menu</string>
+    <string name="help_title">Help</string>
+    <string name="option_title">Options</string>
+    <string name="play_title">Find Chaika\'s!</string>
+    <string name="deletescores">Delete high scores</string>
+    <string name="deletegames">Delete game count</string>
+    <string name="games_played">%1$d games played</string>
+    <string name="high_score">High score: %1$d</string>
+
+</resources>

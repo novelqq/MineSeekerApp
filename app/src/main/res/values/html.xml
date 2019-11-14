@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmpt_link"><a href="http://www.cs.sfu.ca/CourseCentral/276/bfraser/index.html" >CMPT 276 Homepage</a></string>
+    <string name="chaika_link">Chaika exploitable face: <a href="https://switchdraw.deviantart.com/art/CHAIKA-s-Face-456893291" >switchdraw</a></string>
+    <string name="pastel_wallpaper_link">Pastel background: <a href="https://suppineiu.deviantart.com/art/Pastel-wallpaper-586590828" >suppineiu</a></string>
+    <string name="chaika_wallpaper_link">Chaika background: <a href="https://klikster.deviantart.com/art/Chaika-Hitsugi-no-Chaika-455921109" >klickster</a></string>
+</resources>
